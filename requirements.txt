@@ -1,0 +1,14 @@
+pillow~=12.2.0
+torch~=2.12.1+cu132
+torchvision~=0.27.1+cu132
+scikit-learn~=1.9.0
+tqdm~=4.68.3
+pandas~=3.0.3
+catboost~=1.2.10
+xgboost~=3.3.0
+lightgbm~=4.6.0
+optuna~=4.9.0
+numpy~=2.4.4
+matplotlib~=3.11.0
+kaggle~=2.2.3
+seaborn~=0.13.2
