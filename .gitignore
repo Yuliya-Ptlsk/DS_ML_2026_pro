@@ -222,6 +222,11 @@ catboost_info/
 
 # Datasets
 kaggle_3m/
+hw_3/data/
 
 # Models files
 best_model.pth
+
+#Yolo and its dirs after training
+yolov5/
+runs/
